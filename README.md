@@ -2,7 +2,7 @@
 
 lalabase — open-source project management and client portal for dev agencies: tickets, projects, time tracking and a portal for your clients. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mGvvQA)
 
 This repository packages the official [lalabase](https://github.com/lalabase/lalabase) release image (`ghcr.io/lalabase/lalabase:2026.11.0`, AGPL-3.0) for Railway, unmodified apart from packaging. It is an independent community packaging, not the official lalabase distribution and not affiliated with or endorsed by its makers. "Lalabase" is a registered trademark of gboyke solutions UG; see upstream's [TRADEMARKS.md](https://github.com/lalabase/lalabase/blob/main/TRADEMARKS.md).
 
